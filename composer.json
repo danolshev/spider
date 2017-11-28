@@ -1,0 +1,12 @@
+{
+    "name": "daniil/spider",
+    "authors": [
+        {
+            "name": "Daniil Olshev",
+            "email": "danolshev1991@ya.ru"
+        }
+    ],
+    "require": {
+        "vdb/php-spider": "^0.3.0"
+    }
+}
